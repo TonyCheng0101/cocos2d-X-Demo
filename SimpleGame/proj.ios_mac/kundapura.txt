@@ -1,0 +1,104 @@
+total 16
+drwxr-xr-x   7 tony  staff   238  3 25 00:14 .
+drwxr-xr-x  16 tony  staff   544  3 24 21:23 ..
+-rw-r--r--   1 tony  staff  6148  3 25 00:13 .DS_Store
+drwxr-xr-x   5 tony  staff   170  3 24 22:04 SimpleGame.xcodeproj
+drwxr-xr-x  30 tony  staff  1020  3 24 21:21 ios
+-rw-r--r--   1 tony  staff     0  3 25 00:14 kundapura.txt
+drwxr-xr-x   6 tony  staff   204  3 24 21:21 mac
+
+./SimpleGame.xcodeproj:
+total 96
+drwxr-xr-x  5 tony  staff    170  3 24 22:04 .
+drwxr-xr-x  7 tony  staff    238  3 25 00:14 ..
+-rw-r--r--  1 tony  staff  46916  3 24 22:04 project.pbxproj
+drwxr-xr-x  4 tony  staff    136  3 24 21:23 project.xcworkspace
+drwxr-xr-x  3 tony  staff    102  3 24 21:23 xcuserdata
+
+./SimpleGame.xcodeproj/project.xcworkspace:
+total 8
+drwxr-xr-x  4 tony  staff  136  3 24 21:23 .
+drwxr-xr-x  5 tony  staff  170  3 24 22:04 ..
+-rw-r--r--  1 tony  staff  135  3 24 21:23 contents.xcworkspacedata
+drwxr-xr-x  3 tony  staff  102  3 24 21:23 xcuserdata
+
+./SimpleGame.xcodeproj/project.xcworkspace/xcuserdata:
+total 0
+drwxr-xr-x  3 tony  staff  102  3 24 21:23 .
+drwxr-xr-x  4 tony  staff  136  3 24 21:23 ..
+drwxr-xr-x  3 tony  staff  102  3 25 00:13 tony.xcuserdatad
+
+./SimpleGame.xcodeproj/project.xcworkspace/xcuserdata/tony.xcuserdatad:
+total 40
+drwxr-xr-x  3 tony  staff    102  3 25 00:13 .
+drwxr-xr-x  3 tony  staff    102  3 24 21:23 ..
+-rw-r--r--  1 tony  staff  19791  3 25 00:13 UserInterfaceState.xcuserstate
+
+./SimpleGame.xcodeproj/xcuserdata:
+total 0
+drwxr-xr-x  3 tony  staff  102  3 24 21:23 .
+drwxr-xr-x  5 tony  staff  170  3 24 22:04 ..
+drwxr-xr-x  4 tony  staff  136  3 24 21:52 tony.xcuserdatad
+
+./SimpleGame.xcodeproj/xcuserdata/tony.xcuserdatad:
+total 0
+drwxr-xr-x  4 tony  staff  136  3 24 21:52 .
+drwxr-xr-x  3 tony  staff  102  3 24 21:23 ..
+drwxr-xr-x  3 tony  staff  102  3 25 00:05 xcdebugger
+drwxr-xr-x  5 tony  staff  170  3 24 21:23 xcschemes
+
+./SimpleGame.xcodeproj/xcuserdata/tony.xcuserdatad/xcdebugger:
+total 8
+drwxr-xr-x  3 tony  staff  102  3 25 00:05 .
+drwxr-xr-x  4 tony  staff  136  3 24 21:52 ..
+-rw-r--r--  1 tony  staff  473  3 25 00:05 Breakpoints_v2.xcbkptlist
+
+./SimpleGame.xcodeproj/xcuserdata/tony.xcuserdatad/xcschemes:
+total 24
+drwxr-xr-x  5 tony  staff   170  3 24 21:23 .
+drwxr-xr-x  4 tony  staff   136  3 24 21:52 ..
+-rw-r--r--  1 tony  staff  3403  3 24 21:23 SimpleGame-desktop.xcscheme
+-rw-r--r--  1 tony  staff  3395  3 24 21:23 SimpleGame-mobile.xcscheme
+-rw-r--r--  1 tony  staff   687  3 24 21:23 xcschememanagement.plist
+
+./ios:
+total 5552
+drwxr-xr-x  30 tony  staff    1020  3 24 21:21 .
+drwxr-xr-x   7 tony  staff     238  3 25 00:14 ..
+-rw-r--r--   1 tony  staff    1511  3 24 21:21 AppController.h
+-rw-r--r--   1 tony  staff    5560  3 24 21:21 AppController.mm
+-rw-r--r--   1 tony  staff  193731  3 24 21:21 Default-568h@2x.png
+-rw-r--r--   1 tony  staff  764596  3 24 21:21 Default-667h@2x.png
+-rw-r--r--   1 tony  staff  451952  3 24 21:21 Default-736h@3x.png
+-rw-r--r--   1 tony  staff  531717  3 24 21:21 Default-Landscape~ipad.png
+-rw-r--r--   1 tony  staff  139418  3 24 21:21 Default.png
+-rw-r--r--   1 tony  staff  439235  3 24 21:21 Default@2x.png
+-rw-r--r--   1 tony  staff   17283  3 24 21:21 Icon-100.png
+-rw-r--r--   1 tony  staff   16537  3 24 21:21 Icon-114.png
+-rw-r--r--   1 tony  staff   23871  3 24 21:21 Icon-120.png
+-rw-r--r--   1 tony  staff   26403  3 24 21:21 Icon-144.png
+-rw-r--r--   1 tony  staff   33665  3 24 21:21 Icon-152.png
+-rw-r--r--   1 tony  staff   36700  3 24 21:21 Icon-180.png
+-rw-r--r--   1 tony  staff    4038  3 24 21:21 Icon-29.png
+-rw-r--r--   1 tony  staff    5478  3 24 21:21 Icon-40.png
+-rw-r--r--   1 tony  staff    7038  3 24 21:21 Icon-50.png
+-rw-r--r--   1 tony  staff    8960  3 24 21:21 Icon-57.png
+-rw-r--r--   1 tony  staff    8433  3 24 21:21 Icon-58.png
+-rw-r--r--   1 tony  staff   11453  3 24 21:21 Icon-72.png
+-rw-r--r--   1 tony  staff   13250  3 24 21:21 Icon-76.png
+-rw-r--r--   1 tony  staff   12489  3 24 21:21 Icon-80.png
+-rw-r--r--   1 tony  staff   13211  3 24 21:21 Icon-87.png
+-rw-r--r--   1 tony  staff    2069  3 24 21:21 Info.plist
+-rw-r--r--   1 tony  staff     229  3 24 21:21 Prefix.pch
+-rw-r--r--   1 tony  staff    1433  3 24 21:21 RootViewController.h
+-rw-r--r--   1 tony  staff    4080  3 24 21:21 RootViewController.mm
+-rw-r--r--   1 tony  staff     160  3 24 21:21 main.m
+
+./mac:
+total 1424
+drwxr-xr-x  6 tony  staff     204  3 24 21:21 .
+drwxr-xr-x  7 tony  staff     238  3 25 00:14 ..
+-rw-r--r--  1 tony  staff  716318  3 24 21:21 Icon.icns
+-rw-r--r--  1 tony  staff    1152  3 24 21:21 Info.plist
+-rw-r--r--  1 tony  staff     194  3 24 21:21 Prefix.pch
+-rw-r--r--  1 tony  staff    1427  3 24 21:21 main.cpp
