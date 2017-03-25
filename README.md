@@ -1,2 +1,2 @@
-# cocos2d-X-Demo
-about one cocos2d-X Demo
+# cocos2d-X-SimpleGame
+one cocos2d-X simple game.
